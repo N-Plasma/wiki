@@ -13,7 +13,7 @@ My projects dont usually need documentation (im not really a practical coder) bu
 
 {{< cards >}}
 
-  {{< card link="i-like-arch-cord" title="I-Like-Arch-Cord- Documentation" icon="book-open" >}}
+  {{< card link="documentation/i-like-arch-cord" title="I-Like-Arch-Cord- Documentation" icon="book-open" >}}
 
 {{< /cards >}}
 
@@ -21,7 +21,7 @@ My projects dont usually need documentation (im not really a practical coder) bu
 
 {{< cards >}}
 
-  {{< card link="multiplatform-encryption-decryption" title="Multiplatform Encryption / Decryption Documentation" icon="book-open" >}}
+  {{< card link="documentation/multiplatform-encryption-decryption" title="Multiplatform Encryption / Decryption Documentation" icon="book-open" >}}
 
 {{< /cards >}}
 
