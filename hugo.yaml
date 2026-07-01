@@ -24,12 +24,6 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
     - name: Contact ↗
       url: "https://github.com/N-Plasma"
       weight: 3
@@ -45,12 +39,6 @@ menu:
     - name: Theme Toggle
       params:
         type: theme-toggle
-        #label: true # optional, default is false
-    - name: Language Switcher
-      params:
-        type: language-switch
-        label: true # optional, default is false
-        #icon: "globe-alt" # optional, default is "translate"
 
 params:
   navbar:
@@ -62,7 +50,7 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://app.pagescms.org/n-plasma/n-plasma.github.io/main/collection/wiki"
     sep: "%2F"
 
@@ -82,15 +70,15 @@ params:
   banner:
     key: 'announcement-xxx'
     message: |
-      🎉 Welcome! [Hextra](https://github.com/hextra/hextra) is a static site generator that helps you build modern websites.
+      sure do hope github doesnt turn my wiki into a flashbang- OH GOD ITS SO BRIGHT
     
   # Display the last modification date
-  displayUpdatedDate: true
+  displayUpdatedDate: false
   dateFormat: "January 2, 2006"
   # Display the author of the last modification
-  displayUpdatedAuthor: true
+  displayUpdatedAuthor: false
   analytics:
-    minGoogleAnalytics: true
+    minGoogleAnalytics: false
 
 caches:
   images:
@@ -102,9 +90,3 @@ languages:
     languageName: English
     contentDir: content/en
     weight: 1
-  #fr:
-  #  languageName: Français
-  #  weight: 2
-  #ja:
-  #  languageName: 日本語
-  #  weight: 3
