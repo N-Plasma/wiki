@@ -1,5 +1,5 @@
 ---
-title: My Site
+title: _index
 toc: false
 sidebar:
   open: false
