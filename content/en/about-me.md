@@ -2,7 +2,7 @@
 title: About Me
 filename: about
 description: About Page
-weight: 3
+weight: 2
 sidebar:
   open: false
   exclude: false
