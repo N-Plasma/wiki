@@ -4,18 +4,13 @@ toc: false
 sidebar:
   open: false
   exclude: false
+weight: 0
 ---
-This is the landing page.
+Welcome to my useless wiki, theres almost no reason to be here if your a sane person
 
-[About](/about)
-
-## Explore
+### Notable Pages
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="Project Documentation" icon="book-open" >}}
+  {{< card link="about" title="About Me" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
